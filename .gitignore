@@ -1,0 +1,16 @@
+# Ignorar archivos de configuración local
+.env
+config.local.json
+
+# Ignorar credenciales
+*.key
+*.pwd
+
+# Ignorar archivos de Tableau
+*.twbx
+*.tde
+*.hyper
+
+# Ignorar archivos del sistema
+.DS_Store
+Thumbs.db
