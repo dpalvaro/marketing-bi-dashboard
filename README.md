@@ -18,7 +18,7 @@ This project was developed as part of my Computer Science Engineering portfolio.
 
 ### 📸 Dashboard Sneak Peek (Pending)
 
-*(Screenshots of your final dashboard will go here)*
+*(Screenshots of the final dashboard will go here)*
 
 ---
 
