@@ -1,0 +1,17 @@
+# 1. Credenciales y Configuración
+.env
+*.pwd
+*.key
+
+# 2. Archivos de Tableau (Datos y Recuperación)
+*.twbx
+*.tde
+*.hyper
+*.twbr  # <-- La nueva regla de recuperación
+
+# 3. Archivos de Excel (Fuente de datos)
+*.xlsx  # <-- La nueva regla para los datos
+
+# 4. Archivos del Sistema Operativo
+.DS_Store
+Thumbs.db

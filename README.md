@@ -12,13 +12,8 @@ This project was developed as part of my Computer Science Engineering portfolio.
 
 ### 🔗 Interactive Dashboard (Tableau Public Link)
 
-> **[TABLEAU PUBLIC LINK - PENDING]**
+> **[https://public.tableau.com/app/profile/.lvaro.due.as.peula/viz/Libro1_17634044309260/Dashboard1?publish=yes]**
 >
-> *Note: The final dashboard will be published here after construction.*
-
-### 📸 Dashboard Sneak Peek (Pending)
-
-*(Screenshots of the final dashboard will go here)*
 
 ---
 
